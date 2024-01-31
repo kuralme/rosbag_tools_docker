@@ -13,7 +13,6 @@ Several useful scripts for ros1 and ros2 bags build in a containerised environme
 | `images_to_rosbag2.py`| Make a ROS2 bag with images
 | `bag_to_images.py`    | Extract images from a ROS bag topic
 | `bag_to_video.py`     | Convert images in a rosbag to a variable framerate video.
-<!-- | `video_to_bag.py`     | convert a video file to a ROS bag -->
 
 ## Rosbag API
 Convert "input.bag", save the result as "output.bag"
@@ -33,3 +32,5 @@ Commands:
 - topic-compare
 - topic-remove
 
+### Extras
+Another [repo](https://github.com/Kautenja/rosbag-tools.git)
